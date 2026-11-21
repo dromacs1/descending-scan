@@ -1,0 +1,7 @@
+customtkinter
+duckduckgo-search
+trafilatura
+requests
+beautifulsoup4
+deep-translator
+pillow
