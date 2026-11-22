@@ -7,4 +7,4 @@ dist/
 venv/
 settings.json
 saved_pages.json
-*.txt
+report_*.html
